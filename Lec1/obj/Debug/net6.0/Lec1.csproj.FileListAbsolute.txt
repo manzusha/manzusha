@@ -1,0 +1,15 @@
+C:\Users\mborn\Desktop\C#\Lec1\bin\Debug\net6.0\Lec1.exe
+C:\Users\mborn\Desktop\C#\Lec1\bin\Debug\net6.0\Lec1.deps.json
+C:\Users\mborn\Desktop\C#\Lec1\bin\Debug\net6.0\Lec1.runtimeconfig.json
+C:\Users\mborn\Desktop\C#\Lec1\bin\Debug\net6.0\Lec1.dll
+C:\Users\mborn\Desktop\C#\Lec1\bin\Debug\net6.0\Lec1.pdb
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.csproj.AssemblyReference.cache
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.AssemblyInfoInputs.cache
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.AssemblyInfo.cs
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.csproj.CoreCompileInputs.cache
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.dll
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\refint\Lec1.dll
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.pdb
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\Lec1.genruntimeconfig.cache
+C:\Users\mborn\Desktop\C#\Lec1\obj\Debug\net6.0\ref\Lec1.dll
